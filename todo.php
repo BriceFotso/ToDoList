@@ -52,3 +52,8 @@
 <?php
     getTodoItems($username);
  ?>
+
+
+<br><br>
+
+ <button class="annexe"><a href="History.php?">HISTORIQUE</a></button> 
